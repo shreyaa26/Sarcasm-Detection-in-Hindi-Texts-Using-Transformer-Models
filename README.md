@@ -13,8 +13,8 @@ The project implements and evaluates four different transformer models - IndicBE
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sarcasm-detection.git
-cd sarcasm_detection
+git clone https://github.com/yourusername/Sarcasm-Detection-in-Hindi-Texts-Using-Transformer-Models.git
+cd Sarcasm-Detection-in-Hindi-Texts-Using-Transformer-Models
 ```
 
 2. Install dependencies:
