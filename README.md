@@ -1,6 +1,6 @@
 # Sarcasm Detection in Hindi Texts Using Transformer Models
 
-The project implements and evaluates four different transformer models - IndicBERT, mBERT, XLM-RoBERTa, and MuRIL.
+The project implements and evaluates four different transformer models - IndicBERT, mBERT, XLM-RoBERTa, and MuRIL - on a dataset of pure Hindi tweets, for the classification task of sarcasm detection.
 
 ## Setup
 
